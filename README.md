@@ -22,4 +22,4 @@ Step 2: **Knime Workflow Setup**
 
 Post the data setup 2 Workflows have been made one for the Yelp DataBase, the other for the NFT Sales Insights.
 
-All the files are available in the repository for further undertstanding.
+All the files are available in the repository for further understanding.
